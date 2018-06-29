@@ -43,3 +43,6 @@ author: blc.study.grp
 * trie
 * vendor
 * whisper
+
+> Ref)
+> GoDoc ethereum (https://godoc.org/github.com/ethereum/go-ethereum) 참고
