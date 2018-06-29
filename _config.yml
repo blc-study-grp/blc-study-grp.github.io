@@ -7,7 +7,7 @@
 
 # Site settings
 title: Block chain Study Group
-brief-intro: Engineer
+brief-intro: #Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "blc-study-grp.github.io" # the base hostname & protocol for your site
 
