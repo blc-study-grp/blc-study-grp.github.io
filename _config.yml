@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: block chain study group
+title: Block chain Study Group
 brief-intro: Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "blc-study-grp.github.io" # the base hostname & protocol for your site
