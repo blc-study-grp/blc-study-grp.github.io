@@ -7,7 +7,7 @@ tags: golang Ethereum
 author: blc.study.grp
 ---
 
-## go Ethereum package 구성
+## go Ethereum package 구성 (35)
 
 * accounts
 * bmt
