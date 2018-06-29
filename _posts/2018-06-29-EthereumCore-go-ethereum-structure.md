@@ -44,6 +44,7 @@ author: blc.study.grp
 * vendor
 * whisper
 
-<pre><code>Ref)
+```
+Ref)
 GoDoc ethereum (https://godoc.org/github.com/ethereum/go-ethereum) 참고
-</code></pre>
+```
