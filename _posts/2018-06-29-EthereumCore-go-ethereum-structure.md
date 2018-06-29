@@ -7,4 +7,39 @@ tags: golang Ethereum
 author: blc.study.grp
 ---
 
-Test
+## go Ethereum package 구성
+
+* accounts
+* bmt
+* build
+* cmd
+* common
+* consensus
+* console
+* containers
+* core
+* crypto
+* dashboard
+* eth
+* etchclient
+* ethdb
+* ethstats
+* event
+* internal
+* les
+* light
+* log
+* metrics
+* miner
+* mobile
+* node
+* p2p
+* params
+* rlp
+* rpc
+* signer
+* swarm
+* test
+* trie
+* vendor
+* whisper
