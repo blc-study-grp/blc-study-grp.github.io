@@ -11,7 +11,7 @@ type: page
 
 ## About Me
 
-ing.
+Soon
 
 
 ## Comments
